@@ -12,6 +12,7 @@ public class Main extends JavaPlugin implements Listener {
 	@Override
 	public void onEnable(){
 		System.out.println("SpigotPing Enable");
+		getCommand("ping").setExecutor(this);
 	}
 	
 	@Override 

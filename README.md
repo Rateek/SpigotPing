@@ -1,5 +1,5 @@
 # SpigotPing
-Look your ping in Spigot/Bukkit server (1.7 &amp; 1.8 version)
+Look your ping in Spigot/Bukkit server (All versions)
 
 # Link .jar
 https://www.spigotmc.org/resources/spigotping.43310/
